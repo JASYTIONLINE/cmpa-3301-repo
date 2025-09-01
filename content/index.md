@@ -1,42 +1,29 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Welcome to DigiPort Ai Intgrated Solutions Texas Tech Edition 
 ---
-## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+<p align="center">
+  <img src="./dragon.png" alt="DigiPort AI BiG Red Dragon" width="700">
+</p>
 
-## Editing pages
+## It Begins  🐉 Flight of the DigiPort DragonAi
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+**Beneath the code, in a tangled web, a dragon stirred and raised his head.**
+Confused by paths and broken links, he dreamed of flight — but couldn’t think.  
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+A student came with gut and grit, and said, “Let’s see how far you’ll get.”  
+With YAML scroll and Markdown blade, they carved through every glitchy shade.  
 
-### Obsidian (free)
+**JASYTI** drove on without a care, a Google here, a Reddit there.  
+Though workflow failed, a lesson in pain, Dragon pulled and pushed again.  
 
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
+The sidebar twisted, contents broke, dragon fire burned beneath the cloak.  
+With every failed and fixed deploy, the dragon stirred — and grinned with joy.  
 
-Link: [https://obsidian.md/](https://obsidian.md/)
+He pulled the chains, he made them stretch, his patience put right to the test.  
+Till finally, on push twenty-eight, The code aligned. The page looked great.  
 
-### Visual Studio Code (free)
+Now at the gate, the splash screen red, he lifts his wings and turns his head.  
+Though bruised and battered by the fight, the DigiPort Dragon has taken flight.
 
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+**This is the very first Markup Page I ever published. I hope the instructor likes it. I am WAY off reservation here.**
